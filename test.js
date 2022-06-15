@@ -1,3 +1,4 @@
 {
-    
+    TextDecoderStream
+    @Animation
 }
